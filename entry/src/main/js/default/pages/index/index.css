@@ -1,0 +1,38 @@
+.doc-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn-div {
+    width: 100%;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.panel-div {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.panel-circle {
+    background-color: #FFFFFF;
+    opacity:0.5;
+    radius: 24px;
+    icon-width: 24px;
+    icon-height: 24px;
+}
+
+.panel-image {
+    width: 100%;
+    height: 300px;
+    object-fit:contain;
+}
+
+.gallery {
+    background-color: black;
+}

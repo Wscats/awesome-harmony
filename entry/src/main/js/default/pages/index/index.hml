@@ -1,0 +1,11 @@
+<div class="doc-page">
+    <div class="btn-div">
+        <button type="capsule" value="Click Here" onclick="showGallery"></button>
+    </div>
+    <panel id="gallery" class="gallery" type="foldable" mode="{{modeFlag}}}" onsizechange="changeMode">
+        <div class="panel-div" onclick="closeGallery">
+            <image class="panel-image" onclick="closeGallery" src="{{galleryUrl}}}"></image>
+            <button class="panel-circle" onclick="closeGallery" type="circle" icon="/common/images/close.svg"></button>
+        </div>
+    </panel>
+</div>
