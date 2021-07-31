@@ -9,13 +9,13 @@
 
 # 示例
 
-1. 下载 [harmony-component](https://github.com/Wscats/harmony-component) 项目工程，将工程导入 DevEco Studio 进行编译构建及运行调试。
+1. 下载 [awesome-harmony](https://github.com/Wscats/awesome-harmony) 项目工程，将工程导入 DevEco Studio 进行编译构建及运行调试。
 2. 进行编译构建，生成一个 HAP 应用安装包，生成 HAP 应用安装包。
 3. 安装运行后，即可在设备上查看应用示例运行效果，以及进行相关调试。
 
-<p align="left">
+<!-- <p align="left">
   <img height="500px" src="screenshot/3.gif" />
-</p>
+</p> -->
 
 # 资料
 
