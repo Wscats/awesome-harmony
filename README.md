@@ -410,6 +410,7 @@
 - [ImagePicker](https://gitee.com/openharmony-tpc/ImagePicker) - 自定义相册，完全仿微信 UI，实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能。
 
 ### 其他
+- [hmharness](https://github.com/swsgbl/hmharness) - 面向鸿蒙开发的 AI 智能体运行时：沙箱命令执行、租约式权限（Capability Broker）、防提示注入三层地基与自进化评测，npm 一键安装
 
 - [agera](https://gitee.com/openharmony-tpc/agera) - 一组类和接口，可帮助编写功能性，异步和反应性应用程序。
 - [preferencebinder](https://gitee.com/openharmony-tpc/preferencebinder) - 一个首选绑定库。
